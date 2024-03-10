@@ -93,3 +93,4 @@ SCC
 
 - 선형은 정규화 진행
 
+- 정규화 제외 컬럼 : FCVC, NCP, CH20, FAF, TUE, CALC
