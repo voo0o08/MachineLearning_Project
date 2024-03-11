@@ -24,7 +24,7 @@
 | Dataset for estimation of obesity levels based on eating habits and physical condition in individuals from Colombia, Peru and Mexico | https://www.sciencedirect.com/science/article/pii/S2352340919306985 |
 
 ## 탈모 팀 소개 
-- [고우석](https://github.com/KDT-05-Machine-Learning/KDT-05_ML_project/tree/main/WooSeok) : zeeenoo11 <a href="https://github.com/Gowooseo" height="5" width="10" target="_blank">
+- [고우석](https://github.com/KDT-05-Machine-Learning/KDT-05_ML_project/tree/main/WooSeok) : Gowooseo <a href="https://github.com/Gowooseo" height="5" width="10" target="_blank">
 	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><a> : 탈모 예측 / ppt 37p~59p
-- [김동현]()(https://github.com/KDT-05-Machine-Learning/KDT-05_ML_project/tree/main/DongHyun) : zeeenoo11 <a href="https://github.com/zeeenoo11" height="5" width="10" target="_blank">
+- [김동현](https://github.com/KDT-05-Machine-Learning/KDT-05_ML_project/tree/main/DongHyun) : ?? <a href="https://github.com/??" height="5" width="10" target="_blank">
 	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><a> : 탈모 예측 / ppt 60p~87p
