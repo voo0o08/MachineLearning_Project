@@ -11,11 +11,16 @@
 9. Predict new data
 10. Summary
 
-< 파일 구성 >
-1. 01
-2. 02
-3. 
+<hr>
+파일 구성
 
+1. 01_Data_prepare.ipynb
+2. 02_Modeling.ipynb
+3. 02_Modeling.ipynb (df).csv
+4. obesity.csv
+5. Preprocessed_ObesityDataSet.csv
+
+<hr>
 
 < 컬럼 분석 >
 
@@ -36,14 +41,14 @@
 - Consumption of alcohol 음주빈도(CALC)
 - Transportation used 주이동수단(MTRANS)
 
-[ 1. Feature Labeling ]
+[ 1. Feature Labeling by YoonSeo ]  
 CAEC
 ('Always', 0) ('Frequently', 1) ('Sometimes', 2) ('no', 3)
 
 CALC
 ('Always', 0) ('Frequently', 1) ('Sometimes', 2) ('no', 3)
 
-NObeyesdad
+NObeyesdad  
 ('Insufficient_Weight', 0) ('Normal_Weight', 1) ('Overweight_Level_I', 2)
 ('Overweight_Level_II', 3) ('Obesity_Type_I', 4) ('Obesity_Type_II', 5)
 ('Obesity_Type_III', 6)
@@ -72,26 +77,26 @@ SCC
 5. FCVC 채소 섭취 빈도는 2 값의 분포가 높다
 6. NCP 하루 끼니 수는 3 값이 많지만 BMI 와 관련은 없다
 
-
 [ 모델링 고민 ]
+
 - 절대적으로 한 값이 많은 컬럼을 사용하는 게 좋을까? : 일단 제거해본다
 
-    - Gender : 성별
-    - Age : 나이
-    - Height : 키 m
-    - # Weight : 몸무게 kg
-    - family_history_with_overweight : 가족력 -> one-hot 필요
-    - Frequent consumption of high caloric food 고열량 식품 빈도(FAVC)
-    - Frequency of consumption of vegetables 채소 빈도(FCVC)
-    - Number of main meals 하루 끼니 횟수(NCP)
-    - Consumption of food between meals 간식(CAEC)
-    - # SMOKE : 흡연 유무
-    - Consumption of water daily 물 섭취(CH20)
-    - # The attributes related with the physical condition are: Calories consumption monitoring 칼로리 소비(SCC)
-    - Physical activity frequency 활동량(FAF)
-    - Time using technology devices 서마터폰 사용량(TUE),
-    - Consumption of alcohol 음주빈도(CALC)
-    - # Transportation used 주이동수단(MTRANS)-> 자동차, 대중교통만
+  - Gender : 성별
+  - Age : 나이
+  - Height : 키 m
+  - (제외)Weight : 몸무게 kg
+  - family_history_with_overweight : 가족력 -> one-hot 필요
+  - Frequent consumption of high caloric food 고열량 식품 빈도(FAVC)
+  - Frequency of consumption of vegetables 채소 빈도(FCVC)
+  - Number of main meals 하루 끼니 횟수(NCP)
+  - Consumption of food between meals 간식(CAEC)
+  - (제외)SMOKE : 흡연 유무
+  - Consumption of water daily 물 섭취(CH20)
+  - (제외)The attributes related with the physical condition are: Calories consumption monitoring 칼로리 소비(SCC)
+  - Physical activity frequency 활동량(FAF)
+  - Time using technology devices 서마터폰 사용량(TUE),
+  - Consumption of alcohol 음주빈도(CALC)
+  - (제외)Transportation used 주이동수단(MTRANS)-> 자동차, 대중교통만
 
 - 선형은 정규화 진행
 
