@@ -12,9 +12,19 @@
 
 
 ## 비만 팀 소개
-- [전진우](https://github.com/KDT-CRAWLING-ORGANIZAION/CRAWLING_PROJECT/tree/main/JW) : zeeenoo11 <a href="https://github.com/zeeenoo11" height="5" width="10" target="_blank">
-	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><a> : 빅데이터 분야 세부 직무별 트렌드 / ppt 16p~26p
-- [이윤서](https://github.com/KDT-CRAWLING-ORGANIZAION/CRAWLING_PROJECT/tree/main/YS) : voo0o08 <a href="https://github.com/voo0o08" height="5" width="10" target="_blank">
-	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><a> : 워크넷으로 보는 채용기준 / ppt 41p~55p
+- [이윤서](https://github.com/KDT-05-Machine-Learning/KDT-05_ML_project/tree/main/YoonSeo) : voo0o08 <a href="https://github.com/voo0o08" height="5" width="10" target="_blank">
+	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><a> : 분류를 통한 비만 예측 / ppt 01p~19p
+- [전진우](https://github.com/KDT-05-Machine-Learning/KDT-05_ML_project/tree/main/JinWoo) : zeeenoo11 <a href="https://github.com/zeeenoo11" height="5" width="10" target="_blank">
+	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><a> : 회귀를 통한 비만 예측 / ppt 20p~36p
+
+
+| 자료 출처 | 링크 |
+| ------------ | ------------- |
+| Obesity or CVD risk (Classify/Regressor/Cluster) | https://www.kaggle.com/datasets/aravindpcoder/obesity-or-cvd-risk-classifyregressorcluster  |
+| Dataset for estimation of obesity levels based on eating habits and physical condition in individuals from Colombia, Peru and Mexico | https://www.sciencedirect.com/science/article/pii/S2352340919306985 |
 
 ## 탈모 팀 소개 
+- [고우석](https://github.com/KDT-05-Machine-Learning/KDT-05_ML_project/tree/main/WooSeok) : zeeenoo11 <a href="https://github.com/Gowooseo" height="5" width="10" target="_blank">
+	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><a> : 탈모 예측 / ppt 37p~59p
+- [김동현]()(https://github.com/KDT-05-Machine-Learning/KDT-05_ML_project/tree/main/DongHyun) : zeeenoo11 <a href="https://github.com/zeeenoo11" height="5" width="10" target="_blank">
+	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><a> : 탈모 예측 / ppt 60p~87p
