@@ -12,7 +12,7 @@
 현대인의 필수고민 비만과 탈모... 그렇다면 나는?? 머신러닝을 통해 예측해보자!!
 
 
-## 비만 팀 소개
+## 비만 팀 소개 (클릭 시 상세내용 확인 가능)
 <details>
 <summary> 이윤서 : voo0o08 <a href="https://github.com/voo0o08" height="5" width="10" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><a> : 분류를 통한 비만 예측 / ppt 01p~19p</summary>
 
@@ -106,8 +106,13 @@
 </details>
 
 
-- [전진우](https://github.com/KDT-05-Machine-Learning/KDT-05_ML_project/tree/main/JinWoo) : zeeenoo11 <a href="https://github.com/zeeenoo11" height="5" width="10" target="_blank">
-	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><a> : 회귀를 통한 비만 예측 / ppt 20p~36p
+<details>
+<summary> 전진우 <a href="https://github.com/zeeenoo11" height="5" width="10" target="_blank">
+	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><a> : 회귀를 통한 비만 예측 / ppt 20p~36p </summary>
+<div markdown="1">
+내용 채워주세요!!
+</div>
+</details>
 
 
 | 자료 출처 | 링크 |
@@ -116,7 +121,22 @@
 | Dataset for estimation of obesity levels based on eating habits and physical condition in individuals from Colombia, Peru and Mexico | https://www.sciencedirect.com/science/article/pii/S2352340919306985 |
 
 ## 탈모 팀 소개 
-- [고우석](https://github.com/KDT-05-Machine-Learning/KDT-05_ML_project/tree/main/WooSeok) : Gowooseo <a href="https://github.com/Gowooseo" height="5" width="10" target="_blank">
-	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><a> : 탈모 예측 / ppt 37p~59p
+<details>
+<summary> 고우석 <a href="https://github.com/Gowooseo" height="5" width="10" target="_blank">
+	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><a> : 탈모 예측 / ppt 37p~59p </summary>
+<div markdown="1">
+내용 채워주세요!!
+</div>
+</details>
+
+
 - [김동현](https://github.com/KDT-05-Machine-Learning/KDT-05_ML_project/tree/main/DongHyun) : ?? <a href="https://github.com/??" height="5" width="10" target="_blank">
 	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><a> : 탈모 예측 / ppt 60p~87p
+
+<details>
+<summary> 김동현 <a href="https://github.com/DongHyunKKK" height="5" width="10" target="_blank">
+	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><a> : 탈모 예측 / ppt 60p~87p </summary>
+<div markdown="1">
+내용 채워주세요!!
+</div>
+</details>
