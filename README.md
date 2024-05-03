@@ -14,7 +14,7 @@
 
 ## 비만 팀 소개 (클릭 시 상세내용 확인 가능)
 <details>
-<summary> 이윤서 : voo0o08 <a href="https://github.com/voo0o08" height="5" width="10" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><a> : 분류를 통한 비만 예측 / ppt 01p~19p</summary>
+<summary> 이윤서 <a href="https://github.com/voo0o08" height="5" width="10" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><a> : 분류를 통한 비만 예측 / ppt 01p~19p</summary>
 
   ## 1. 데이터 전처리
 
@@ -129,9 +129,6 @@
 </div>
 </details>
 
-
-- [김동현](https://github.com/KDT-05-Machine-Learning/KDT-05_ML_project/tree/main/DongHyun) : ?? <a href="https://github.com/??" height="5" width="10" target="_blank">
-	<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/><a> : 탈모 예측 / ppt 60p~87p
 
 <details>
 <summary> 김동현 <a href="https://github.com/DongHyunKKK" height="5" width="10" target="_blank">
